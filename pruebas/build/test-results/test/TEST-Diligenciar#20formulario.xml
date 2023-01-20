@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Diligenciar formulario" tests="1" skipped="0" failures="1" errors="0" timestamp="2023-01-20T19:24:43" hostname="AV-33977" time="0.594">
+  <properties/>
+  <testcase name="Diligenciar formulario" classname="Diligenciar formulario" time="0.594">
+    <failure message="io.cucumber.junit.UndefinedStepException: The step 'Se diligencie el formulario 'aa@gmail.com' 'pepe' 'cuando venga'' and 1 other step(s) are undefined.&#10;You can implement these steps using the snippet(s) below:&#10;&#10;@Cuando(&quot;Se diligencie el formulario {string} {string} {string}&quot;)&#10;public void se_diligencie_el_formulario(String string, String string2, String string3) {&#10;    // Write code here that turns the phrase above into concrete actions&#10;    throw new io.cucumber.java.PendingException();&#10;}&#10;@Entonces(&quot;se valida que sea exitoso&quot;)&#10;public void se_valida_que_sea_exitoso() {&#10;    // Write code here that turns the phrase above into concrete actions&#10;    throw new io.cucumber.java.PendingException();&#10;}&#10;" type="io.cucumber.junit.UndefinedStepException">io.cucumber.junit.UndefinedStepException: The step 'Se diligencie el formulario 'aa@gmail.com' 'pepe' 'cuando venga'' and 1 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Cuando(&quot;Se diligencie el formulario {string} {string} {string}&quot;)
+public void se_diligencie_el_formulario(String string, String string2, String string3) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Entonces(&quot;se valida que sea exitoso&quot;)
+public void se_valida_que_sea_exitoso() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+</failure>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
